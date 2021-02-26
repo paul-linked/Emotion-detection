@@ -1,0 +1,8 @@
+cd tflite1
+source tflite1-env/bin/activate
+cd Emotion-detection/
+cd src
+python emotions.py --mode display
+
+
+"q" to quit
